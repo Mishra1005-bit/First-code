@@ -1,0 +1,72 @@
+.box1{
+    height: 2px;
+    width: px;
+    padding: 4px;
+    padding-right: 0.5cm;
+    padding-left: 0.5cm;
+    border: 3px solid black;
+    border-radius: 23px;
+}
+.box{
+    display: inline;
+    position: relative;
+    top: 368px;
+    right: -16px;
+}
+.box2{
+    height: 2px;
+    width: px;
+    padding: 4px;
+    padding-right: 0.5cm;
+    padding-left: 0.5cm;
+    border: 3px solid black;
+    border-radius: 23px; 
+}
+img{
+    height: 9cm;
+    width: 12cm;
+    border: 0.5px solid black;
+    border-radius: 23px;
+    position: relative;
+    top: -15px;
+    right: -6px;
+}
+h1{
+    position: relative;
+    top: 29px;
+    right: -10px;
+}
+p{
+    position: relative;
+    top: 18px;
+    right: -10px;
+    width: 29.6vw;
+}
+button{
+    padding: 20px;
+    padding-top: 10px;
+    padding-left: 26px;
+    padding-right: 26px;
+    padding-bottom: 10px;
+    position: relative;
+    top: 9px;
+    right: -169px;
+    border: 0px solid black;
+    border-radius: 25px;
+    background-color: rgba(9, 145, 224, 0.164);
+    color: rgb(9, 145, 224);;
+}
+.container{
+    position: relative;
+    border: solid black;
+    border-radius: 25px;
+border-width: 2px;    height: 15.5cm;
+box-shadow: -3px 3px 69px rgb(122, 118, 118) ;
+    width: 12.4cm;
+    margin: auto;
+    background-color: white;
+    
+}
+body{
+    background-color: aliceblue;
+}
